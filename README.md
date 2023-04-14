@@ -1,4 +1,4 @@
-# Socket_basics_in_Csharp
+# Socket basics in C#
 
 ## Requirements
 dotnet and dotnet-sdk properly installed in your computer, preferably with net6.0
