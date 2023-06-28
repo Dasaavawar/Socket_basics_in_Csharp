@@ -10,4 +10,4 @@ To make it work in your machine:
   3.  With VS Code go to "/Socket_basics_in_Csharp/Client" folder, open a terminal and run "dotnet build Client.csproj"
   4.  After successful buildings, open "/Socket_basics_in_Csharp/Listener" with your terminal and run "dotnet bin/Debug/net6.0/Listener.dll"
   5.  Similarly, open "/Socket_basics_in_Csharp/Client" with your terminal and run "dotnet bin/Debug/net6.0/Client.dll"
-  6.  See the result
+  6.  See the result in the terminals
