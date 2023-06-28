@@ -1,4 +1,4 @@
-# Socket Programming in C#
+# Socket basics in C#
 
 ## Requirements
 dotnet and dotnet-sdk properly installed in your computer, preferably with net6.0 also C# plugin installed in your VS Code
