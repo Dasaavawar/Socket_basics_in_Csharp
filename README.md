@@ -5,7 +5,7 @@ dotnet and dotnet-sdk properly installed in your computer, preferably with net6.
 
 ## Instructions
 To make it work in your machine:
-  1.  Clone the folder with "git clone https://github.com/Imitelis/Socket_basics_in_Csharp.git"
+  1.  Clone the folder with "git clone https://github.com/imitelis/Socket_basics_in_Csharp.git"
   2.  With VS Code go to "/Socket_basics_in_Csharp/Listener" folder, open a terminal and run "dotnet build Listener.csproj"
   3.  With VS Code go to "/Socket_basics_in_Csharp/Client" folder, open a terminal and run "dotnet build Client.csproj"
   4.  After successful buildings, open "/Socket_basics_in_Csharp/Listener" with your terminal and run "dotnet bin/Debug/net6.0/Listener.dll"
